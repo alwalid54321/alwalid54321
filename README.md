@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alwalid54321
 - 👀 I’m interested in everything about tech
-- 🌱 I’m currently learning programming with python 
+- 🌱 I’m currently learning programming a thing everyday
 - 💞️ I’m looking to collaborate on everything about programming
 - 📫 You can reach me with the same username in telegram, snap, insta, and etc
 
