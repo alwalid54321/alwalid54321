@@ -11,9 +11,9 @@ Hi 👋 there! I'm Alwalid (@alwalid54321 online).
 
 🌱 I'm always looking to collaborate on projects that positively impact people's lives. If you have an idea for an app, product, or service that can make a difference, I'd love to help out!
 
-💞️ I've worked on projects involving machine learning, blockchain, augmented reality and more. I'm passionate about using technology to solve real-world problems. 
+💞️ I've worked on projects involving machine learning, blockchain, augmented reality, and more. I'm passionate about using technology to solve real-world problems. 
 
-Outside of tech, I enjoy sports, reading and hanging out with friends.
+Outside of tech, I enjoy sports, reading, and learning life hacks.
 
 📫 You can find me @alwalid54321 on Telegram, Snapchat, Instagram, etc. I'm open to connecting and collaborating!
 
