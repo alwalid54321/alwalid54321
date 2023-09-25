@@ -1,7 +1,9 @@
 Let's build something awesome.
 Hi 👋 there! I'm Alwalid (@alwalid54321 online). 
 
-👀 I'm a tech enthusiast constantly learning new things. Some of my interests include:
+I would be honored by your visit to my website: techosophy.me
+
+👀 So I'm a tech enthusiast constantly learning new things. Some of my interests include:
 
 - Artificial Intelligence
 - Web Development
