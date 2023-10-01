@@ -8,7 +8,7 @@ I would be honored by your visit to my website: [techosophy.me](http://www.techo
 - Artificial Intelligence
 - Web Development
 - Mobile App Development
-- IoT
+- IoT 
 - Game Development
 - Devops
 
