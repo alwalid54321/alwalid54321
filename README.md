@@ -11,7 +11,7 @@ I would be honored by your visit to my website: [techosophy.me](http://www.techo
 - IoT 
 - Game Development
 - Devops
-
+ 
 🌱 I'm always looking to collaborate on projects that positively impact people's lives. If you have an idea for an app, product, or service that can make a difference, I'd love to help out!
 
 💞️ I've worked on projects involving machine learning, blockchain, augmented reality, and more. I'm passionate about using technology to solve real-world problems. 
