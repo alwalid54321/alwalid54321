@@ -1,6 +1,6 @@
 Let's build something awesome.
 Hi 👋 there! I'm Alwalid (@alwalid54321 online). 
-  
+   
 I would be honored by your visit to my website: [techosophy.me](http://www.techosophy.me)
  
 👀 So I'm a tech enthusiast constantly learning new things. Some of my interests include:
