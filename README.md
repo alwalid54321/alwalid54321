@@ -1,5 +1,5 @@
 Let's build something awesome.
-Hi 👋 there! I'm Alwalid (@alwalid54321 online). 
+Hi 👋 there! I'm Alwalid (@alwalid54321 online).  
           
 I would be honored by your visit to my website: [techosophy.me](http://www.techosophy.me)
  
