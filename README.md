@@ -17,7 +17,7 @@ I would be honored by your visit to my website: [techosophy.me](http://www.techo
 
 Outside of tech, I enjoy sports, reading, and learning life hacks.
 
-📫 You can find me @alwalid54321 on discord, Telegram, StackOverflow, dribble, etc. I'm open to connecting and collaborating!
+📫 You can find me @alwalid54321 on Discord, Telegram, StackOverflow, dribble, etc. I'm open to connecting and collaborating!
 
 
 <!---
