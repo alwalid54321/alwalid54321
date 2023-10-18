@@ -9,7 +9,7 @@ I would be honored by your visit to my website: [techosophy.me](http://www.techo
 - Mobile App Development
 - IoT 
 - Game Development 
-- DevOps
+- DevOps 
   
 🌱 I'm always looking to collaborate on projects that positively impact people's lives. If you have an idea for an app, product, or service that can make a difference, I'd love to help out!
 
