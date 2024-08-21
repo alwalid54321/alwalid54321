@@ -49,6 +49,9 @@ I'm passionate about various areas in technology, including:
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26D1?logo=adobexd&logoColor=white)
 ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?logo=sketch&logoColor=white)
 ![InVision](https://img.shields.io/badge/-InVision-FF6F61?logo=invision&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+![Squarespace](https://img.shields.io/badge/-Squarespace-121212?logo=squarespace&logoColor=white)
+
 
 ### C++ & Rust Development
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
@@ -99,19 +102,6 @@ Check out some of my featured projects:
 ## Contribution Graph
 
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=alwalid54321&theme=radical)
-
-## Coding Stats
-
-![Coding Stats](https://github-readme-stats.vercel.app/api?username=alwalid54321&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
-
-## Code & Issues
-
-![Code & Issues](https://img.shields.io/github/issues/alwalid54321?style=flat-square)
-![Code Reviews](https://img.shields.io/github/issues-pr-reviews/alwalid54321?style=flat-square)
-
-## GitHub Activity
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=alwalid54321&theme=radical)
 
 
 
