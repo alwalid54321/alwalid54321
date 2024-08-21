@@ -6,10 +6,11 @@ Welcome to my GitHub profile! I'm a tech enthusiast and constantly learning new 
 
 # About Me
 
-I'm passionate about various areas in technology, including:
+I'm passionate about various areas of technology, including:
 
 ## Skills & Tools
 
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=alwalid54321)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 ### Data Analytics
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white)
