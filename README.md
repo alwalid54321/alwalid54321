@@ -71,9 +71,9 @@ I'm passionate about various areas of technology, including:
 
 
 
-🌱 I'm always looking to collaborate on projects that positively impact people's lives. If you have an idea for an app, product, or service that can make a difference, I'd love to help out!
+🫴 I'm always looking to collaborate on projects that positively impact people's lives. If you have an idea for an app, product, or service that can make a difference, I'd love to help out!
 
-💞️ My experience includes working on projects involving machine learning, blockchain, augmented reality, and more. I’m passionate about using technology to solve real-world problems.
+🤘 My experience includes working on projects involving machine learning, blockchain, augmented reality, and more. I’m passionate about using technology to solve real-world problems.
 
 Outside of tech, I enjoy sports, reading, and learning life hacks.
 
