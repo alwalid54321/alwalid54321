@@ -2,7 +2,7 @@
 
 I'm **Alwalid (@alwalid54321)**
 
-Welcome to my GitHub profile! I'm a tech enthusiast and constantly learning new things. Feel free to check out my website: [techosophy.me](http://www.techosophy.me).
+Welcome to my GitHub profile! I'm a tech enthusiast and constantly learning new things. Feel free to check out my website: [alwalid54321](http://www.alwalid54321.com).
 
 # About Me
 
