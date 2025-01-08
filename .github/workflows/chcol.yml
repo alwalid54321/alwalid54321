@@ -1,12 +1,10 @@
-name: Update SVG Colors
+name: Replace SVG Colors
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:  # This allows manual triggering from GitHub Actions.
 
 jobs:
-  update-svg-colors:
+  replace-svg-colors:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -21,16 +19,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
 
-      - name: Replace SVG colors
+      - name: Run the Python script to update colors
         run: |
-          python replace_svg_colors.py
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@github.com"
-          git add .
-          git commit -m "Update SVG colors to #00a8ff"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          python svg_col.py
