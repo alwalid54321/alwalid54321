@@ -1,7 +1,7 @@
 import os
 
 # Define the directory containing your SVG files
-svg_directory = 'path_to_your_svg_files'
+svg_directory = 'github-snake.svg'
 
 # Define the color replacements
 color_replacements = {
