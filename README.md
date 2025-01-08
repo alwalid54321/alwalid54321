@@ -4,6 +4,12 @@ I'm **Alwalid (@alwalid54321)**
 
 Welcome to my GitHub profile! I'm a tech enthusiast and constantly learning new things. Feel free to check out my website: [alwalid54321](http://www.alwalid54321.com).
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 # About Me
 
 I'm passionate about various areas of technology, including:
