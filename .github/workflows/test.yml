@@ -26,16 +26,16 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/blue-wave.gif?color_snake=#00a8ff&color_dots=#a8d8ff,#d1eaff,#86bdfc,#2b98f0,#004d7f
+            dist/blue-wave.gif?color_snake=#00a8ff&color_dots=#4dcaff,#88e1ff,#f7a8ff,#ffcf5c,#00e68a&background=transparent
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/forest.gif?color_snake=#228B22&color_dots=#98FB98,#556B2F,#2E8B57,#6B8E23,#3CB371
-            dist/fire.gif?color_snake=red&color_dots=#FF6347,#FF4500,#FF8C00,#FFD700,#DC143C
-            dist/galaxy.gif?color_snake=purple&color_dots=#9400D3,#8A2BE2,#4B0082,#6A5ACD,#483D8B
-            dist/candy.gif?color_snake=pink&color_dots=#FF69B4,#FFC0CB,#FFD700,#FFA07A,#FF4500
-            dist/sunset.gif?color_snake=#FF4500&color_dots=#FFD700,#FF6347,#FF7F50,#FF4500,#FF8C00
-            dist/ice.gif?color_snake=blue&color_dots=#00FFFF,#AFEEEE,#5F9EA0,#4682B4,#B0E0E6
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&background=transparent
+            dist/forest.gif?color_snake=#228B22&color_dots=#98FB98,#556B2F,#2E8B57,#6B8E23,#3CB371&background=transparent
+            dist/fire.gif?color_snake=red&color_dots=#FF6347,#FF4500,#FF8C00,#FFD700,#DC143C&background=transparent
+            dist/galaxy.gif?color_snake=purple&color_dots=#9400D3,#8A2BE2,#4B0082,#6A5ACD,#483D8B&background=transparent
+            dist/candy.gif?color_snake=pink&color_dots=#FF69B4,#FFC0CB,#FFD700,#FFA07A,#FF4500&background=transparent
+            dist/sunset.gif?color_snake=#FF4500&color_dots=#FFD700,#FF6347,#FF7F50,#FF4500,#FF8C00&background=transparent
+            dist/ice.gif?color_snake=blue&color_dots=#00FFFF,#AFEEEE,#5F9EA0,#4682B4,#B0E0E6&background=transparent
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
