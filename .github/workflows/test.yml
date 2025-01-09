@@ -28,6 +28,7 @@ jobs:
           outputs: |
             dist/blue-wave.gif?color_snake=#00a8ff&color_dots=#004080,#0066cc,#0099ff,#33ccff,#80dfff&background=transparent
             dist/github-snake.svg
+            dist/blue.gif?color_snake=#00a8ff&color_dots=#004080,#0066cc,#0099ff,#33ccff,#80dfff&background=transparent
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&background=transparent
             dist/forest.gif?color_snake=#228B22&color_dots=#98FB98,#556B2F,#2E8B57,#6B8E23,#3CB371&background=transparent
