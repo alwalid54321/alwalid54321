@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast and constantly learning new 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwalid54321/alwalid54321/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alwalid54321/alwalid54321/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alwalid54321/alwalid54321/output/ocean.gif" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/alwalid54321/alwalid54321/output/github-snake.svg" />
 </picture>
 
