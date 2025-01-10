@@ -107,10 +107,6 @@ Check out some of my featured projects:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alwalid54321&layout=compact&theme=radical)
 
-## Contribution Graph
-
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=alwalid54321&theme=radical)
-
 
 
 ---
