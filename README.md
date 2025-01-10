@@ -85,10 +85,11 @@ Outside of tech, I enjoy sports, reading, and learning life hacks.
 
 ## Connect with Me
 
-- **Discord**: [@alwalid54321](https://discord.com/users/alwalid54321)
-- **Telegram**: [@alwalid54321](https://t.me/alwalid54321)
-- **StackOverflow**: [@alwalid54321](https://stackoverflow.com/users/alwalid54321)
-- **Dribbble**: [@alwalid54321](https://dribbble.com/alwalid54321)
+- ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white) **[Discord](https://discord.com/users/alwalid54321)**
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white) **[Telegram](https://t.me/alwalid54321)**
+- ![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white) **[StackOverflow](https://stackoverflow.com/users/alwalid54321)**
+- ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white) **[Dribbble](https://dribbble.com/alwalid54321)**
+
 
 ## Projects
 
