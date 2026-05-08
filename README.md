@@ -82,7 +82,7 @@ I'm always looking to collaborate on projects that positively impact people's li
 
 ## Connect with Me
 
-- ![Email](mailto:alwalid54321@gmail.com)
+- ![Email](mailto://alwalid54321@gmail.com)
 - ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white) **[Discord](https://discord.com/users/alwalid54321)**
 - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white) **[Telegram](https://t.me/alwalid54321)**
 - ![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white) **[StackOverflow](https://stackoverflow.com/users/alwalid54321)**
