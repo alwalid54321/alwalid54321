@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast and constantly learning new 
 
 # About Me
 
-I'm passionate about various areas of technology, including:
+I'm into various areas of technology, including:
 
 ## Skills & Tools
 
@@ -88,13 +88,6 @@ I'm always looking to collaborate on projects that positively impact people's li
 - ![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white) **[StackOverflow](https://stackoverflow.com/users/alwalid54321)**
 - ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white) **[Dribbble](https://dribbble.com/alwalid54321)**
 
-
-## Projects
-
-Check out some of my featured projects:
-
-- [Project Name](link_to_project): Brief description of the project.
-- [Another Project](link_to_another_project): Brief description of the project.
 
 
 ## GitHub Stats
